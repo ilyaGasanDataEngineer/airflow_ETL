@@ -1,0 +1,14 @@
+# Библиотека для работы с PostgreSQL
+psycopg2-binary==2.9.3
+
+# Библиотека для работы с таблицами данных
+pandas==1.5.0
+
+# Библиотека для построения графиков
+matplotlib==3.6.0
+
+# Apache Airflow для управления DAG
+apache-airflow==2.6.1
+
+# Дополнительные пакеты для работы с PostgreSQL в Airflow
+apache-airflow-providers-postgres==4.0.1
